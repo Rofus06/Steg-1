@@ -12,3 +12,4 @@ c:\Users\filip.scherlund\Downloads\Steg 1\Steg 1\obj\Debug\net8.0\refint\Steg 1.
 c:\Users\filip.scherlund\Downloads\Steg 1\Steg 1\obj\Debug\net8.0\Steg 1.pdb
 c:\Users\filip.scherlund\Downloads\Steg 1\Steg 1\obj\Debug\net8.0\Steg 1.genruntimeconfig.cache
 c:\Users\filip.scherlund\Downloads\Steg 1\Steg 1\obj\Debug\net8.0\ref\Steg 1.dll
+c:\Users\filip.scherlund\Downloads\Steg 1\Steg 1\obj\Debug\net8.0\Steg 1.sourcelink.json
